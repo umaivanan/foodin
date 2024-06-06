@@ -1,0 +1,111 @@
+:root{ --primary-color: #A82C4B;
+    --secondary-color: #43121d;
+      --third-color: #f98169;
+       --white-color: #fff;
+       --text-color: #555;
+       --text-gray: #999;
+       --black-color: #000;
+       --primary-font: 'Robot', sans-serif;
+       --secondary-font: 'Quicksand', sans-serif;
+   
+   }
+
+
+
+
+.container{display: flex;
+flex-direction: row;
+}
+
+.info1{font-size: 50px; color:black ; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-weight: 700;}
+.image1{
+width: 1000px;}
+
+.section{background-color: brown;
+color: aliceblue;}
+
+.image2{width: 500px;}
+
+.info2{color: black;
+font-weight: 700;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 50px;}
+
+.image3{width: 700px;}
+
+.info3{font-weight: 700; font-size: 40px;}
+.info4{text-align: center;}
+
+
+
+
+.image4{width: 300px;
+    border-radius: 10px;}
+    
+ .info5{font-size: 20px;
+text-align: center; color: white; font-weight: 700;}   
+
+ .section8{background-image: url(bg-3.jpg);
+    text-align: center;
+width: 1500px;}
+.footer{display: flex;
+flex-direction: row; text-align: center;}
+
+
+
+.b1{text-align: left;}
+
+
+.image5{width: 50px;}
+
+
+.text-decoration-none{ color: rgb(226, 43, 141); font-size: 20px;}
+.nav11{color: black;
+font-size: 20px;}
+
+.section6{background-image: url(bg-2.jpg);
+    width: 1400px;text-align: center;
+
+}
+
+.info6{font-size: larger;
+text-align: center;}
+
+.info7{font-size: 10px;
+text-align: center; }
+
+
+.section10{text-align: center;}
+
+
+
+
+
+footer {
+    background-color: #8A2B2B;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+
+footer .footer-links {
+    margin-bottom: 20px;
+}
+
+footer .footer-links a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+}
+
+footer .social-media a {
+    margin: 0 5px;
+}
+
+footer .social-media img {
+    height: 150px;
+}
+
+.section{width:1400px; margin-left: 50px; margin-bottom: 30px;
+margin-top: 50px; text-align: right; padding-left: 50px;}
